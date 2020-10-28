@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83b3ad1c878f20b4a8e46375a23e6f6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _state1: {instanceID: 0}
+  - _state2: {instanceID: 0}
+  - _invaderBullet: {fileID: 6693628119134337038, guid: 37b576dcc8f52da4db7855c86f5cbfa5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
